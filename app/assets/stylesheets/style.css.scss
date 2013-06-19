@@ -1,3 +1,8 @@
 @import 'bootstrap';
 
 @import 'bootstrap-responsive';
+
+.carousel-inner>.item>img {
+margin: 0 auto;
+height: 320px;
+}
